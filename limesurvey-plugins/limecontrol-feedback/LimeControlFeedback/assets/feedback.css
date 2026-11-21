@@ -1,0 +1,7 @@
+body { font-family: system-ui, sans-serif; margin: 0; color: #1f2937; background: #fff; line-height: 1.5; }
+main, nav { max-width: 70rem; padding-inline: clamp(1rem, 4vw, 3rem); margin: 1.5rem auto; }
+h1 { font-size: 1.7rem; font-weight: 650; margin-block: 0 1rem; }
+h2 { font-size: 1.25rem; font-weight: 600; margin-block: 1.5rem .5rem; }
+dt { font-weight: 600; } dd { margin-inline-start: 1rem; }
+.overflow-x-auto { overflow-x: auto; }
+form { display: flex; align-items: center; gap: .5rem; }

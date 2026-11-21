@@ -1,0 +1,9 @@
+{
+  "name": "limecontrol-survey-suite",
+  "private": true,
+  "scripts": {
+    "build:plugins": "python3 limesurvey-plugins/suite/build.py",
+    "test:commerce": "php tests/remote-connector.php && php commerce-connectors/opencart/tests/orders.php && php commerce-connectors/shoper/tests/test.php && python3 commerce-connectors/shopify/tests/run.py",
+    "test:plugins": "php limesurvey-plugins/limecontrol-crm/tests/crm.php && php limesurvey-plugins/limecontrol-feedback/tests/acceptance.php && php limesurvey-plugins/limecontrol-feedback/tests/comparison.php && php limesurvey-plugins/limecontrol-crm-desk/tests/documents.php"
+  }
+}

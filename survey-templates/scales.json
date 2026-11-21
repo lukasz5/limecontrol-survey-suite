@@ -1,0 +1,51 @@
+{
+  "nps11": [
+    { "code": "0", "text": ["0", "0"] },
+    { "code": "1", "text": ["1", "1"] },
+    { "code": "2", "text": ["2", "2"] },
+    { "code": "3", "text": ["3", "3"] },
+    { "code": "4", "text": ["4", "4"] },
+    { "code": "5", "text": ["5", "5"] },
+    { "code": "6", "text": ["6", "6"] },
+    { "code": "7", "text": ["7", "7"] },
+    { "code": "8", "text": ["8", "8"] },
+    { "code": "9", "text": ["9", "9"] },
+    { "code": "10", "text": ["10", "10"] }
+  ],
+  "agree5": [
+    { "code": "1", "text": ["Zdecydowanie się nie zgadzam", "Strongly disagree"] },
+    { "code": "2", "text": ["Raczej się nie zgadzam", "Disagree"] },
+    { "code": "3", "text": ["Ani tak, ani nie", "Neither agree nor disagree"] },
+    { "code": "4", "text": ["Raczej się zgadzam", "Agree"] },
+    { "code": "5", "text": ["Zdecydowanie się zgadzam", "Strongly agree"] }
+  ],
+  "satisfaction5": [
+    { "code": "1", "text": ["Bardzo niezadowolony(-a)", "Very dissatisfied"] },
+    { "code": "2", "text": ["Raczej niezadowolony(-a)", "Dissatisfied"] },
+    { "code": "3", "text": ["Ani zadowolony(-a), ani niezadowolony(-a)", "Neither satisfied nor dissatisfied"] },
+    { "code": "4", "text": ["Raczej zadowolony(-a)", "Satisfied"] },
+    { "code": "5", "text": ["Bardzo zadowolony(-a)", "Very satisfied"] }
+  ],
+  "quality5": [
+    { "code": "1", "text": ["Bardzo źle", "Very poor"] },
+    { "code": "2", "text": ["Źle", "Poor"] },
+    { "code": "3", "text": ["Przeciętnie", "Average"] },
+    { "code": "4", "text": ["Dobrze", "Good"] },
+    { "code": "5", "text": ["Bardzo dobrze", "Very good"] }
+  ],
+  "quality5na": [
+    { "code": "1", "text": ["Bardzo źle", "Very poor"] },
+    { "code": "2", "text": ["Źle", "Poor"] },
+    { "code": "3", "text": ["Przeciętnie", "Average"] },
+    { "code": "4", "text": ["Dobrze", "Good"] },
+    { "code": "5", "text": ["Bardzo dobrze", "Very good"] },
+    { "code": "NA", "text": ["Nie dotyczy", "Not applicable"] }
+  ],
+  "likelihood5": [
+    { "code": "1", "text": ["Zdecydowanie nie", "Definitely not"] },
+    { "code": "2", "text": ["Raczej nie", "Probably not"] },
+    { "code": "3", "text": ["Trudno powiedzieć", "Not sure"] },
+    { "code": "4", "text": ["Raczej tak", "Probably yes"] },
+    { "code": "5", "text": ["Zdecydowanie tak", "Definitely yes"] }
+  ]
+}

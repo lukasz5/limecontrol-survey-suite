@@ -1,0 +1,3 @@
+[submodule "commerce-connectors"]
+	path = commerce-connectors
+	url = https://github.com/lukasz5/limecontrol-commerce-connectors.git
